@@ -2,7 +2,7 @@
 
 - Data Source: Kaggle - Store Item Demand Forecasting Challenge (https://www.kaggle.com/c/demand-forecasting-kernels-only/data)
 
-- The data contains of 5 years of store-item sales data. Specifically, there are four columns:
+- The data contains of 5 years of store-item sales data, size 913000x4. Specifically, there are four columns:
     - Date (Ranges from 2013-01-01 to 2017-12-31)
     - Store (ID number of stores, ranges from 1-10)
     - Item (ID number of items, ranges from 1-50)
